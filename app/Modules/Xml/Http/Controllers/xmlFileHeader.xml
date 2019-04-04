@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v1.0 20131225//EN" "BITS-book1.dtd">
+<book-part-wrapper dtd-version="1.0" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<collection-meta>
+<title-group>
+<title>eBooks</title>
+</title-group>
+</collection-meta>
+<book-meta>
+<book-id book-id-type="publisher-id">861868</book-id>
+<book-id book-id-type="doi">10.1115/1.861868</book-id>
+<subj-group subj-group-type="category-subjects">
+<subject>Engineering Management</subject>
+</subj-group>
+<book-title-group>
+<book-title>Unwritten Laws of Engineering for the 21st Century</book-title>
+<alt-title alt-title-type="display">Unwritten Laws of Engineering for the 21st Century</alt-title>
+<alt-title alt-title-type="short-name">861868</alt-title>
+</book-title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<collab>ASME</collab>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>King</surname>
+<given-names>W.J.</given-names>
+</name>
+<role>Founding Author</role>
+</contrib>
+</contrib-group>
+<pub-date>
+<year>2019</year>
+</pub-date>
+<isbn content-type="e-ISBN">9780791861868</isbn>
+<publisher>
+<publisher-name>ASME Press</publisher-name>
+</publisher>
+<permissions id="asme.861868.permissions">
+<copyright-statement>Copyright &copy; 1944 by THE AMERICAN SOCIETY OF MECHANICAL ENGINEERS</copyright-statement>
+<copyright-year>1944</copyright-year>
+<copyright-holder>ASME</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>TK</p>
+</abstract>
+<kwd-group kwd-group-type="Engineering Management">
+<kwd>engineering education</kwd>
+<kwd>early career engineers</kwd>
+<kwd>engineering management</kwd>
+<kwd>engineering laws</kwd>
+<kwd>engineering relationships</kwd>
+<kwd>engineering design</kwd>
+<kwd>engineering profession</kwd>
+<kwd>laws of engineering</kwd>
+<kwd>engineering principles</kwd>
+<kwd>project management</kwd>
+</kwd-group>
+</book-meta>

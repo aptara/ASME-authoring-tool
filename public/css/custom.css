@@ -1,0 +1,200 @@
+.chapter-name, .chapter-text {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+#cke_updatedText {
+    width: 100%;
+}
+
+.text-preview {
+    overflow-y: scroll;
+    height: 400px;
+}
+
+div.alert-danger {
+    margin-top: 5px;
+}
+
+div.alert-danger:empty {
+    display: none;
+}
+
+#inviteContributorBtn {
+    margin-bottom: 10px;
+}
+
+#autoSaveTime {
+    color: #6c757d;
+}
+
+/*label{
+    display: none;
+}*/
+
+.main-section h3 {
+    font-size: 26px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.main-section .sub-section h3 {
+    font-size: 23px;
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 13px;
+    font-style: italic;
+}
+
+.main-section p {
+    font-size: 15px;
+}
+
+.main-section .sub-section p {
+    font-size: 13px;
+}
+
+p {
+    text-align: justify;
+    /* text-indent: 50px;*/
+}
+
+form .btn {
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.required {
+    color: red;
+}
+
+.edit-chapter-name {
+    width: 75%;
+    float: left;
+}
+
+.time-remaining {
+    width: 25%;
+    float: left;
+    text-align: center;
+    margin-bottom: 10px;
+    border: 1px solid #cfcfcf;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.time-remaining h4 {
+    font-size: 15px;
+}
+
+.time-remaining p {
+    text-align: center;
+    margin-bottom: 0px;
+    font-size: 14px;
+    color: #4690dc;
+}
+
+/* .mce_mainsection, .mce_subsection, .mce_title {
+
+} */
+.mce_mainsection, .mce_subsection, .mce_title .mceIcon {
+    display: none;
+}
+
+span.mceButtonLabel {
+    border-right: 1px solid #868484 !important;
+}
+
+span.mceButtonLabel::after {
+    content: "+";
+    position: absolute;
+    left: 8px;
+    font-size: 16px;
+    top: 0px;
+}
+
+.tinymce-editor-div {
+    display: none;
+}
+
+.tinymce-editor-div .mceLayout {
+    width: 100% !important;
+}
+
+.tinymce-compare-div {
+    display: none;
+}
+
+.tinymce-compare-div .mceLayout {
+    width: 100% !important;
+}
+
+.publish-error-custom {
+    display: none;
+}
+
+.modal-footer .footer-submit-text {
+    display: none;
+}
+
+.book-text-form {
+    display: none;
+}
+
+.book-text-close {
+    display: none;
+}
+
+.book-text-submit {
+    margin-bottom: 15px;
+}
+
+.chapter-view .book-text-p {
+    margin-bottom: 50px;
+}
+
+.chapter-view .book-text-p.no-text {
+    margin-bottom: 0px;
+}
+
+.navbar-brand img {
+    max-width: 70px;
+}
+
+.navbar-brand {
+    padding: 0px;
+}
+
+.main-section table, .sub-section table {
+    margin-bottom: 1rem;
+}
+
+.main-section table thead tr th, .sub-section table thead tr th, .main-section table thead tr td, .sub-section table thead tr td {
+    font-weight: bold;
+    border: 1px solid #000;
+    padding: 5px 10px;
+}
+
+.main-section table tr td, .sub-section table tr td {
+    border: 1px solid #000;
+    padding: 5px 10px;
+    font-size: 13px;
+}
+.header-container h2{
+    float: left;
+    padding-right: 10px;
+}
+
+.header-container .download-all-wrapper {
+    float: right;
+    margin-bottom: 15px;
+}
+.header-container .download-all-wrapper a { 
+    margin: 5px 0;
+}
+
+.book-text-p p {
+    min-height: 20px;
+    margin-bottom: 0!important;
+}
